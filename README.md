@@ -56,13 +56,13 @@ def max_marks(list1):
 
 
 ```
-## Sample Input and Output
-![output](./img/max_marks1.jpg) 
-
 ## Output:
-![exp3a(1)](https://github.com/Rohiit2005/FindMaximum/assets/138849178/a2931d65-0420-4046-9c62-cab7f600d941)
-![exp3a(2)](https://github.com/Rohiit2005/FindMaximum/assets/138849178/fe2c89a7-4e4c-42bd-a8b5-08a85f363e52)
-![exp3a(3)](https://github.com/Rohiit2005/FindMaximum/assets/138849178/c6048438-7505-4afa-bfe9-2a4101e8dad5)
+![exp3a(1)](https://github.com/Rohiit2005/FindMaximum/assets/138849178/0431f1bb-5ff7-4b06-b094-78850c6ac7b7)
+![exp3a(2)](https://github.com/Rohiit2005/FindMaximum/assets/138849178/b5350ca8-0275-4d78-a937-bd0c0f68da12)
+![exp3a(3)](https://github.com/Rohiit2005/FindMaximum/assets/138849178/eab8246b-cc5c-4253-bc14-efe50abbcdd1)
+
+
+
 
 
 ## Result:
